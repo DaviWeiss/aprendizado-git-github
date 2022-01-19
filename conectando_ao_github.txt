@@ -1,0 +1,3 @@
+Para conectar um projeto local ao github, basta, digitar:
+    - git remote add origin "nome projeto no github"
+

@@ -1,0 +1,9 @@
+Dentre  os principais comandos do Git e Github, achei necessário deixar os seguintes:
+
+git init - Inicia o git em uma pasta qualquer.
+git add - Adiciona uma alteração realizada no projeto. Pode utilziar git add com o nome do arquivo/pasta que deseja adicionar ou git add . que adiciona todas as alterações feitas.
+git commit - Passa as alterações que são temporárias do projeto, as quais foram subidas pelo add para head.
+git push - Sobe a alteração para o github ou similar.
+git merge - Faz a junção de uma branch com a branch master
+git branch - Cria uma nova branch
+git checkout - Sai da branch atual e vai para a desejada

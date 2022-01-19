@@ -1,0 +1,1 @@
+Esse repositório vai servir para consolidar meus estudos a respeito de Git e de GitHub, bem como, servirá para futuras consultas em caso de dúvidas.
