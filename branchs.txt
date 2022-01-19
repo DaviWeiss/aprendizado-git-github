@@ -1,0 +1,6 @@
+As branchs são utilizados como divisões dentro de um projeto para que várias pessoas consigam atuar dentro de um mesmo projeto sem que haja conflito de versões.
+
+Sendo assim, é importante utilizar branchs de acordo com novas tarefas e saber que as branchs precisam ser divididas por tarefa.
+
+Para criar uma branch, basta utilizar
+    - git branch "nome"
