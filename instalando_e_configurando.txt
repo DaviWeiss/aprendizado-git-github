@@ -1,0 +1,13 @@
+Quando iniciamos a mexer em alguma máquina, é necessário configurar o git para que se coniga no futuro utilizar o git como um gerenciador de versões.
+Assim, se inicia com git config e passa as seguintes informações:
+
+E-mail e Nome
+
+    - git config —global [user.name](http://user.name) “Nome”
+    - git config —global [user.e-mail](http://user.e-mail) "E-mail"
+
+Para ver se deu certo, usa git config —list
+
+# Iniciando GIT - Após isso, pode-se iniciar um git dentro de um projeto que foi criado localmente
+
+    - git init - Comando usado para iniciar o git no projeto
